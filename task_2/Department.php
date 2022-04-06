@@ -13,7 +13,6 @@ class Department {
 
         $this->name = $name;
         $this->emps = $emps;
-        //date("d.m.y");
     }
 
     public function salarySum() :int
