@@ -25,10 +25,10 @@ $third_emps []= new Employee(9, "AndAnother", 100, new DateTime("10.10.2010"));
 
 $fourth_emps = [];
 $fourth_emps []= new Employee(5, "FourthDeptEmp", 100, new DateTime("07.07.2020"));
-$fourth_emps []= new Employee(6, "AnotherFourthDeptEmp", 400, new DateTime("06.06.2006"));
+$fourth_emps []= new Employee(6, "AnotherFourthDeptEmp", 200, new DateTime("06.06.2006"));
 $fourth_emps []= new Employee(9, "AndAnotherFourth", 50, new DateTime("10.10.2010"));
 $fourth_emps []= new Employee(9, "LastOne", 100, new DateTime("10.10.2010"));
-//sumSalary = 650
+//sumSalary = 450
 
 $depts = [];
 $depts [] = new Department($first_emps, "Dept1");
