@@ -14,7 +14,7 @@ $emps []= new Employee(-5, "WrongId", 300, new DateTime("03.03.2003"));
 
 $emps []= new Employee(4, "WrongSalary", 0, new DateTime("07.07.2017"));
 $smps []= new Employee(5, "FifthName", 400, new DateTime("01.01.2001"));
-$emps []= new Employee("5", "SixthName", 200, new DateTime("11.11.2011"));
+$emps []= new Employee("6", "SixthName", 200, new DateTime("11.11.2011"));
 
 $emps []= new Employee(5, "7thName", "100", new DateTime("07.07.2020"));
 
